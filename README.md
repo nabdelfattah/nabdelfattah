@@ -3,6 +3,14 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A52D4D&center=true&width=435&lines=Full-stack+web+developer"></p>
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/nadda-w-abdelfattah"><img alt="Linked-in" title="Linked-in" src="https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCNa9X95RymoW50KDMdyDkAQ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-dd2c00?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/nabdelfattah"><img alt="Github" title="Github" src="https://img.shields.io/badge/-follow-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/12776747/nadda-w-abdelfattah?tab=profile"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-profile-f48225?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/Nada_Wael?hr_r=1"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-follow-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
 - 👩‍💻 I'm a self-taught full-stack web developer.
 - 👨‍🎓 I'm always learning and exploring new technologies to improve my skills.
 - 💬 Ask me anything <a href="https://github.com/nabdelfattah/nabdelfattah/issues">here</a>.
