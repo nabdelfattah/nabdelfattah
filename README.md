@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center"><img src="profile-name.png" alt="Nadda W. Abdelfattah" width="300"/></p>
 
-<!--
-**nabdelfattah/nabdelfattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A52D4D&center=true&width=435&lines=Full-stack+web+developer"></p>
 
-Here are some ideas to get you started:
+- 👩‍💻 I'm a self-taught full-stack web developer.
+- 👨‍🎓 I'm always learning and exploring new technologies to improve my skills.
+- 💬 Ask me anything <a href="https://github.com/nabdelfattah/nabdelfattah/issues">here</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Flask.py](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=Sqlite)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
