@@ -1,7 +1,7 @@
 <p align="center"><img src="profile-name.png" alt="Nadda W. Abdelfattah" width="300"/></p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A52D4D&center=true&width=435&lines=Full-stack+web+developer"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A52D4D&vCenter=true&random=false&width=435&lines=Full-stack+web+developer;Front-end+Web+Developer;JavaScript+Developer;React+Developer)"></p>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nadda-w-abdelfattah"><img alt="Linked-in" title="Linked-in" src="https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,8 +24,6 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Flask.py](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=Sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
