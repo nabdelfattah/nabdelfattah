@@ -11,7 +11,7 @@
   <a href="https://www.hackerrank.com/Nada_Wael?hr_r=1"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-follow-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-- 👩‍💻 I'm a self-taught full-stack web developer.
+- 👩‍💻 I'm a self-taught front-end web developer.
 - 👨‍🎓 I'm always learning and exploring new technologies to improve my skills.
 - 💬 Ask me anything <a href="https://github.com/nabdelfattah/nabdelfattah/issues">here</a>.
 
