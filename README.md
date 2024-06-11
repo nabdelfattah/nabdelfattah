@@ -1,7 +1,7 @@
 <p align="center"><img src="profile-name.png" alt="Nadda W. Abdelfattah" width="300"/></p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A52D4D&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=543228&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nadda-w-abdelfattah"><img alt="Linked-in" title="Linked-in" src="https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
