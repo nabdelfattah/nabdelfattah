@@ -1,4 +1,4 @@
-<p align="center"><img src="name.png" alt="Nada W. Abdelfattah" style="max-width: 300px; margin-bottom: -10px;"/></p>
+<p align="center"><img src="name.png" alt="Nada W. Abdelfattah" style="width: 300; margin-bottom: -10;"/></p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=543228&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer;JavaScript+Developer;React+Developer" alt="Typing SVG" /></p>
