@@ -22,6 +22,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Flask.py](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=Sqlite)&nbsp;
